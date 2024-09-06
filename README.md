@@ -1,4 +1,4 @@
-# HR Employee Attrition Analytics
+# HR Employee Attrition Analytics 🧑‍🤝‍🧑
 
 This project analyzes employee attrition using the IBM HR Analytics Dataset. It explores various employee demographics and builds predictive models to identify employees at risk of leaving the company. The models created achieve up to 98% accuracy.
 
